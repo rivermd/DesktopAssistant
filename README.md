@@ -1,2 +1,2 @@
 # DesktopAssistant
-Basic code for creating a desktop assistant in Python
+Basic code for creating a desktop assistant in Python.
